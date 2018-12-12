@@ -1,0 +1,170 @@
+body {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.hide-display {
+    display: none;
+}
+
+.show-display {
+    display: block;
+}
+
+.dark-grey {
+    background-color: #D8D8D8;
+}
+
+#container {
+    float: left;
+    width: 65%;
+    height: auto;
+    background-color: #E2E2E2;
+    margin-left: 10%;
+}
+
+#sidebar_container {
+    float: left;
+    width: 15%;
+    height: 1080px;
+    background-color: #C6C6C6;
+    margin-right: 10%;
+}
+
+#header_container {
+    width: 100%;
+    height: 230px;
+    margin-top: 100px;
+    background-color: #E2E2E2;
+}
+
+#content_container {
+    float: left;
+    width: 100%;
+    height: auto;
+}
+
+.item_container {
+    float: left;
+    width: 100%;
+    height: 185px;
+}
+
+.left_side {
+    float: left;
+    width: 50%;
+    height: 185px; 
+}
+
+.right_side {
+    float: left;
+    width: 50%;
+    height: 185px; 
+}
+
+p {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    padding-top: 16px;
+}
+
+h2 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    padding-top: 16px;
+}
+
+.subject {
+    height: 75px;
+    background-color: #353535;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+}
+
+h3 {
+    font-family: 'Lato';
+    font-weight: 900;
+    font-size: 21px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: #353535;
+    padding-top: 5px;
+}
+
+.header {
+    height: 35px;
+    background-color: #F6F7F7;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#generate_container {
+    float: left;
+    width: 100%;
+    height: 185px;
+    background-color: #E2E2E2;
+}
+
+h1 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    width: 325px;
+    height: 70px;
+    border-radius: 15px;
+    background-color: #353535;
+    margin-top: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
+
+h1:hover {
+    background-color: #6EBD44;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
